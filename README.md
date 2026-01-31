@@ -1,10 +1,10 @@
-# Amazon Bookshop Recommendation System
+# Readora Bookshop Recommendation System
 
 A Data Science project that implements a Book Recommendation System using Collaborative Filtering (ALS/NMF) and provides an interactive web application using Streamlit.
 
 ## Project Overview
 
-This project analyzes the Amazon Books dataset to build a recommendation engine. It includes:
+This project analyzes the Readora Books dataset to build a recommendation engine. It includes:
 - **Exploratory Data Analysis (EDA)**: Insights into user ratings, book popularity, and distributions.
 - **Machine Learning Model**: Uses Non-negative Matrix Factorization (NMF) for collaborative filtering to recommend books to users.
 - **Web Application**: A Streamlit-based UI that mimics an online bookstore, allowing users to:
@@ -23,7 +23,7 @@ This project analyzes the Amazon Books dataset to build a recommendation engine.
 ## File Structure
 
 ```
-amazon_bookshop_recommendation_system/
+readora_bookshop_recommendation_system/
 ├── app.py                  # Main Streamlit application
 ├── train_model.py          # Script to train the NMF model
 ├── eda_analysis.py         # Script for Exploratory Data Analysis
@@ -44,7 +44,7 @@ amazon_bookshop_recommendation_system/
 1.  **Clone the repository**:
     ```bash
     git clone <repository-url>
-    cd amazon_bookshop_recommendation_system
+    cd readora_bookshop_recommendation_system
     ```
 
 2.  **Install dependencies**:
