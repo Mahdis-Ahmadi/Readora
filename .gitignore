@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Database (Large files)
+database/*.db
+database/*.csv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# pkl files
+models/*.pkl
+
+# We keep the config.toml to disable metrics, but ignore secrets if any.

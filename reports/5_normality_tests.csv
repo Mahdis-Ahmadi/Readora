@@ -1,0 +1,6 @@
+Dataset,Variable,Test,Statistic,P-Value,Normal (p>0.05)
+Books,Year-Of-Publication,Shapiro-Wilk (N=5000),0.12164965201260236,8.346127974602012e-93,False
+Users,User-ID,Shapiro-Wilk (N=5000),0.9536092301709291,3.6527391308704687e-37,False
+Users,Age,Shapiro-Wilk (N=5000),0.9394831279410422,3.908705448190368e-41,False
+Ratings,User-ID,Shapiro-Wilk (N=5000),0.9507746413931645,4.953736528877544e-38,False
+Ratings,Book-Rating,Shapiro-Wilk (N=5000),0.6951414535797904,8.128871128920085e-70,False

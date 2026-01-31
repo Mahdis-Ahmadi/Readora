@@ -1,0 +1,42 @@
+Metric,Value
+Total Books,271357
+Total Users,278858
+Total Ratings,1149780
+Duplicate Rows in Books,0
+Duplicate Rows in Users,0
+Duplicate Rows in Ratings,0
+Unique ISBN in Books,271357
+Unique User-ID in Users,278858
+"Duplicate (User-ID, ISBN) pairs in Ratings",0
+Unique Books in Ratings,340556
+Unique Users in Ratings,105283
+Average Rating (all),2.8669501991685364
+Median Rating (all),0.0
+Min Rating,0.0
+Max Rating,10.0
+Total Rating Rows,1149780
+Rating Rows where Book-Rating=0,716109
+Rating Rows where Book-Rating>0 (explicit),433671
+Pct Rating=0,62.2823
+Books: #columns with any nulls,2
+Books: null columns (name->count),"{""Book-Author"": 1, ""Publisher"": 2}"
+Users: #columns with any nulls,1
+Users: null columns (name->count),"{""Age"": 110762}"
+Ratings: #columns with any nulls,0
+Ratings: null columns (name->count),{}
+Missing Ages,110762
+Missing Book Authors,1
+Missing Publishers,2
+Ratings→Books ISBN match %,89.6808
+Ratings→Users User-ID match %,100.0
+Count of Rating 0,716109
+Count of Rating 1,1770
+Count of Rating 2,2759
+Count of Rating 3,5996
+Count of Rating 4,8904
+Count of Rating 5,50974
+Count of Rating 6,36924
+Count of Rating 7,76457
+Count of Rating 8,103736
+Count of Rating 9,67541
+Count of Rating 10,78610

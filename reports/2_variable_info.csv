@@ -1,0 +1,15 @@
+Dataset,Variable,Dtype,Unique Values,Missing Values,Missing %
+Books,ISBN,object,271357,0,0.0
+Books,Book-Title,object,242132,0,0.0
+Books,Book-Author,object,102021,1,0.0
+Books,Year-Of-Publication,int64,116,0,0.0
+Books,Publisher,object,16804,2,0.0
+Books,Image-URL-S,object,271041,0,0.0
+Books,Image-URL-M,object,271041,0,0.0
+Books,Image-URL-L,object,271041,0,0.0
+Users,User-ID,int64,278858,0,0.0
+Users,Location,object,57339,0,0.0
+Users,Age,float64,165,110762,39.72
+Ratings,User-ID,int64,105283,0,0.0
+Ratings,ISBN,object,340556,0,0.0
+Ratings,Book-Rating,int64,11,0,0.0

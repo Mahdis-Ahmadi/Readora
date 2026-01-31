@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Memory Usage (MB),Duplicate Rows
+Books,271357,8,157.68,0
+Users,278858,3,24.46,0
+Ratings,1149780,3,82.24,0

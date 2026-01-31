@@ -1,0 +1,5 @@
+Variable,Correlation with Target
+Book-Rating,1.0
+Year-Of-Publication,-0.007731686408681315
+Age,-0.028238347605482706
+User-ID,-0.046944442772612574

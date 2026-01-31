@@ -1,0 +1,15 @@
+Dataset,Variable,Type,Mean,Median,Mode,Std Dev,Skewness,Kurtosis,Min,25%,50%,75%,Max,Mode Freq,Unique
+Books,Year-Of-Publication,Numerical,1959.7608169312014,1995.0,2002,257.9942256910369,-7.4567922234316955,53.663130257535194,0.0,1989.0,1995.0,2000.0,2050.0,,
+Books,ISBN,Categorical,,,0767409752,,,,,,,,,1.0,271357.0
+Books,Book-Title,Categorical,,,Selected Poems,,,,,,,,,27.0,242132.0
+Books,Book-Author,Categorical,,,Agatha Christie,,,,,,,,,632.0,102021.0
+Books,Publisher,Categorical,,,Harlequin,,,,,,,,,7535.0,16804.0
+Books,Image-URL-S,Categorical,,,http://images.amazon.com/images/P/155936078X.01.THUMBZZZ.jpg,,,,,,,,,2.0,271041.0
+Books,Image-URL-M,Categorical,,,http://images.amazon.com/images/P/155936078X.01.MZZZZZZZ.jpg,,,,,,,,,2.0,271041.0
+Books,Image-URL-L,Categorical,,,http://images.amazon.com/images/P/155936078X.01.LZZZZZZZ.jpg,,,,,,,,,2.0,271041.0
+Users,User-ID,Numerical,139429.5,139429.5,1,80499.51502027822,-4.505279124691466e-16,-1.2,1.0,69715.25,139429.5,209143.75,278858.0,,
+Users,Age,Numerical,34.75143370454978,32.0,24.0,14.428097382455459,1.1783916103099445,6.044239850374929,0.0,24.0,32.0,44.0,244.0,,
+Users,Location,Categorical,,,"london, england, united kingdom",,,,,,,,,2506.0,57339.0
+Ratings,User-ID,Numerical,140386.39512602412,141010.0,11676,80562.27771851212,-0.022667279864854326,-1.2217319894820005,2.0,70345.0,141010.0,211028.0,278854.0,,
+Ratings,Book-Rating,Numerical,2.8669501991685364,0.0,0,3.8541838592016537,0.733641207848559,-1.2404465616809959,0.0,0.0,0.0,7.0,10.0,,
+Ratings,ISBN,Categorical,,,0971880107,,,,,,,,,2502.0,340556.0

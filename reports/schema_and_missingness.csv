@@ -1,0 +1,15 @@
+table,column,dtype,missing_count,missing_pct,unique_count
+Books,ISBN,object,0,0.0,271357
+Books,Book-Title,object,0,0.0,242132
+Books,Book-Author,object,1,0.0004,102021
+Books,Year-Of-Publication,int64,0,0.0,116
+Books,Publisher,object,2,0.0007,16804
+Books,Image-URL-S,object,0,0.0,271041
+Books,Image-URL-M,object,0,0.0,271041
+Books,Image-URL-L,object,0,0.0,271041
+Users,User-ID,int64,0,0.0,278858
+Users,Location,object,0,0.0,57339
+Users,Age,float64,110762,39.7199,165
+Ratings,User-ID,int64,0,0.0,105283
+Ratings,ISBN,object,0,0.0,340556
+Ratings,Book-Rating,int64,0,0.0,11
