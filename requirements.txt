@@ -1,6 +1,6 @@
-streamlit==1.19.0
+streamlit>=1.30.0
 python
-pandas
+pandas>=2.0
 numpy
 scipy
 scikit-learn
@@ -8,5 +8,5 @@ streamlit
 matplotlib
 seaborn
 Pillow
-altair==4.2.2
+altair>=5.0.0
 requests
