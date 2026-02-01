@@ -24,6 +24,6 @@ database/*.csv
 .streamlit/secrets.toml
 
 # pkl files
-models/*.pkl
+#models/*.pkl
 
 # We keep the config.toml to disable metrics, but ignore secrets if any.
