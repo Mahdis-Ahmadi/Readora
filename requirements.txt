@@ -1,5 +1,4 @@
 streamlit>=1.30.0
-python
 pandas>=2.0
 numpy
 scipy
