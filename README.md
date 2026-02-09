@@ -1,6 +1,6 @@
 # Readora Bookshop Recommendation System
 
-A Data Science project that implements a Book Recommendation System using Collaborative Filtering (ALS/NMF) and provides an interactive web application using Streamlit.
+A Data Science project that implements a Book Recommendation System using Collaborative Filtering (ALS/NMF) and provides an interactive web application using Streamlit (here's the link to the app: https://readora-recommendation-system.streamlit.app/).
 
 ## Project Overview
 
